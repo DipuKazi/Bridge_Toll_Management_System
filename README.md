@@ -1,2 +1,2 @@
 # Bridge_Toll_Management_System
-This code is written in C++
+This program is written in C++
