@@ -157,7 +157,7 @@ This is a student project, so there is room to improve:
 
 ## 👤 Author
 
-**Dipu Kazi**
+**Kazi Md. Naim Uddin**
 GitHub: [@DipuKazi](https://github.com/DipuKazi)
 
 Developed as a software development project during university studies.
